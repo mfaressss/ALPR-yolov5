@@ -1,0 +1,11 @@
+
+
+train: ../train_data/images/train/  
+val: ../train_data/images/valid/  
+
+#number of classes
+nc: 1
+# Classes
+names: ['license plate']
+
+
